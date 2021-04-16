@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/my_t1.dir/main.cpp.o CMakeFiles/my_t1.dir/cannon.cpp.o CMakeFiles/my_t1.dir/board.cpp.o CMakeFiles/my_t1.dir/my_utils.cpp.o  -o my_t1 

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Tal/C_Code/cpp/my_t1/my_utils.cpp
+my_utils.h
+/mnt/c/Users/Tal/C_Code/cpp/my_t1/my_utils.h
+
+/mnt/c/Users/Tal/C_Code/cpp/my_t1/my_utils.h
+

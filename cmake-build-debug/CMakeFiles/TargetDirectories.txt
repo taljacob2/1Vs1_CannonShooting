@@ -1,0 +1,3 @@
+/mnt/c/Users/Tal/C_Code/cpp/my_t1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Tal/C_Code/cpp/my_t1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Tal/C_Code/cpp/my_t1/cmake-build-debug/CMakeFiles/my_t1.dir
